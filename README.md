@@ -3,12 +3,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ferdiyanto-tri-setiawan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://instagram.com/ferditrii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
+<a href="https://www.linkedin.com/in/ferdiyanto-tri-setiawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ferdiyanto Tri Setiawan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ferditrii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferditrii" height="30" width="40" /></a>
 </div>
 
 
@@ -20,7 +16,7 @@
 
 ###
 
-<h1 align="center">👋 Hi there! I'm Ferdi</h1>
+<h1 align="center">👋 Hi there! I'm Ferdiyanto Tri Setiawan</h1>
 
 ###
 
